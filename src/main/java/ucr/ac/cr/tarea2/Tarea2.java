@@ -3,7 +3,7 @@
  */
 package ucr.ac.cr.tarea2;
 
-import javax.swing.JOptionPane;
+
 
 /**
  *
@@ -11,6 +11,6 @@ import javax.swing.JOptionPane;
  */
 public class Tarea2 {
     public static void main(String[] args) {
-       
+       Menu menu=new Menu();
     }
 }
